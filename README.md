@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 🔭 Actualmente estoy trabajando en una pagina web<br>🌱 Actualmente estoy aprendiendo mas lenguajes de programacion y aprendiendo mas sobre lo que se<br>
 
 
